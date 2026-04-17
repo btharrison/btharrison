@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=%2300599C&logoSize=AUTO&labelColor=%23ededed&color=%2300599C)
 ![C](https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=%2300599C&logoSize=AUTO&labelColor=%23ededed&color=%2300599C)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=PostgreSQL&logoColor=%2300599C&logoSize=AUTO&labelColor=%23ededed&color=%234169E1)
+
+
 
 
 
