@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ##  Tech
 <!-- Python, Java, Javascript, C++, C  -->
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=Python&logoColor=Blue&labelColor=white)
+![Java](https://img.shields.io/badge/Java-%23FF7800)
+
 
 
 <!-- HTML, CSS, Node.JS, React -->
