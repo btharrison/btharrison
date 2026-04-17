@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=PostgreSQL&logoColor=%2300599C&logoSize=AUTO&labelColor=%23ededed&color=%234169E1)
 
+![Git](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=%23F05032&logoSize=AUTO&labelColor=%23ededed&color=%23F05032)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=%23181717&labelColor=%23ededed&color=%23181717)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=%232496ED&labelColor=%23ededed&color=%232496ED)
+
+
+
 
 
 
